@@ -37,3 +37,13 @@
 //<h1>hello html</h1> <img src="图片路径" alt="图片描述"> h1是一级标题
 
 //语法特点:标签不区分大小写的,语法结构不严谨
+
+//前段开发工具:VScode
+//ctrl+/快速注释,在Html中输入<h1>只需要写标签名h1按enter就能补全,要打开网页需要先ctrl+s保存
+
+
+//在idea中创建包,可以连包带类一起创建:javaweb.web01test 就会创建在javaweb包下的web01testjava类
+
+//在idea中可以右键选择上下文操作,然后选择注入语言或引用,来快速生成代码
+
+//在idea中创建包结构,创建目录时路径使用/分隔而不是用.分隔,例如:org/example/javaweb/web01test
